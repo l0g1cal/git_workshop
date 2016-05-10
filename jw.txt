@@ -1,0 +1,15 @@
+git init
+	Initializes something
+
+git add
+	Add to staging area
+
+git commit -m "Message"
+	Commit to local repository
+
+git difference
+
+git status
+
+git clone 'url from github 'copy from clipboard' button'
+	Clone the remote repository to a local one
