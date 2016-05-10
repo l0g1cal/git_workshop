@@ -7,7 +7,7 @@ git add
 git commit -m "Message"
 	Commit to local repository
 
-git difference
+git diff
 
 git status
 
